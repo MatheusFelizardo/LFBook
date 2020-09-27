@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63763269/94377498-a4b2c200-00f8-11eb-89a4-2fa1d1f8f673.png" width="260px" height="160px"/></p>
+  <img src="https://user-images.githubusercontent.com/63763269/94377498-a4b2c200-00f8-11eb-89a4-2fa1d1f8f673.png" width="180px" height="80px"/></p>
 </div>
 <h2 align="center">LFBook - Localizador de Livros</h2>
 
