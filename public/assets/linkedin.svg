@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="15" cy="15" r="15" transform="translate(827 733)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="linkedin" transform="translate(-827 -733)" clip-path="url(#clip-path)">
+    <g id="linkedin-2" data-name="linkedin" transform="translate(826.638 732.586)">
+      <path id="Path_197" data-name="Path 197" d="M30.362,15.414a15,15,0,1,1-15-15,15,15,0,0,1,15,15Zm0,0" fill="#0a7bba"/>
+      <path id="Path_198" data-name="Path 198" d="M24.322,16.619V22.8H20.736V17.034c0-1.448-.517-2.439-1.816-2.439a1.962,1.962,0,0,0-1.838,1.312,2.428,2.428,0,0,0-.119.874V22.8H13.377s.048-9.772,0-10.784h3.589v1.528c-.007.012-.017.023-.023.035h.023v-.035A3.56,3.56,0,0,1,20.2,11.766C22.552,11.766,24.322,13.308,24.322,16.619ZM9.627,6.822a1.868,1.868,0,1,0-.047,3.724H9.6a1.869,1.869,0,1,0,.025-3.724ZM7.81,22.8h3.584V12.02H7.81Zm0,0" fill="#f2f2f2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="15" cy="15" r="15" transform="translate(907 733)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.064" y1="1.055" x2="1.114" y2="-0.105" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fed576"/>
+      <stop offset="0.26" stop-color="#f47133"/>
+      <stop offset="0.61" stop-color="#bc3081"/>
+      <stop offset="1" stop-color="#4c63d2"/>
+    </linearGradient>
+  </defs>
+  <g id="instagram" transform="translate(-907 -733)" clip-path="url(#clip-path)">
+    <g id="instagram-2" data-name="instagram" transform="translate(907 733)">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="30" height="30" rx="6.733" fill="url(#linear-gradient)"/>
+      <path id="Path_200" data-name="Path 200" d="M10.391,5.2h9.352c.207.1.517.1.727.207a4.966,4.966,0,0,1,3.949,3.429,8.313,8.313,0,0,1,.31,1.559v9.145a7.211,7.211,0,0,1-1.247,3.223,5.726,5.726,0,0,1-4.676,1.974H11.017a5.7,5.7,0,0,1-3.847-1.25A5.726,5.726,0,0,1,5.2,18.848V11.576a7.866,7.866,0,0,1,.1-1.559A5.092,5.092,0,0,1,9.248,5.548ZM7.17,15.068V19.12a3.554,3.554,0,0,0,3.847,3.845q4.053.155,8.105,0c2.39,0,3.741-1.455,3.845-3.845q.155-4.053,0-8.105a3.658,3.658,0,0,0-3.845-3.845q-4.053-.155-8.105,0A3.554,3.554,0,0,0,7.17,11.017Z" fill="#fff"/>
+      <path id="Path_201" data-name="Path 201" d="M10.017,15.109a5.1,5.1,0,0,1,5.092-5.092A5.2,5.2,0,0,1,20.2,15.109,5.1,5.1,0,0,1,15.109,20.2,5.2,5.2,0,0,1,10.017,15.109Zm5.092-3.221a3.169,3.169,0,1,0,3.117,3.117,3.117,3.117,0,0,0-3.117-3.117Z" fill="#fff"/>
+      <path id="Path_202" data-name="Path 202" d="M19.058,9.809A1.205,1.205,0,0,1,20.3,8.562a1.341,1.341,0,0,1,1.247,1.247,1.247,1.247,0,0,1-2.494,0Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

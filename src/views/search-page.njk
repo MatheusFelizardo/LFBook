@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LFBook - Localizador de Livros</title>
+
+    <link rel="stylesheet" href="/styles/styles.css">
+</head>
+<body>
+    <div class="all-content">
+        <header>
+            <a href="/"><img src="assets/logo.svg" alt="LFBook logo"></a>
+
+            <div class="menu">
+                <a href="/sobre">Sobre</a>
+                <a href="/contato">Contato</a>
+            </div>
+        </header>
+
+        <h2>Encontre o próximo livro</h2>
+
+        <form action="" class="field">
+            <div class="search-bar searchpage">
+                
+                <input type="text" name="search" id="search" value="{{search}}" placeholder="Pesquise por livro, autor ou editora">
+                <button class="btn-search" type="submit"><span> <img src="assets/lupa-roxa.svg" alt=""></span></button>
+                
+            </div>
+        </form>
+        <div class="cards">
+            {% for item in items %}
+                <div class="card">
+
+                    <div class="img">
+                        <img src="{{item.volumeInfo.imageLinks.smallThumbnail}}" alt="">
+                    </div>
+                    
+                    <div class="info">
+                        <h1>{{item.volumeInfo.title}}</h1>
+                        <div class="texts">
+                        <p>Autor: {{item.volumeInfo.authors}}</p>
+                        <p>Editora:{{item.volumeInfo.publisher}}</p>
+                        <p>Publicação: <span class="data">{{item.volumeInfo.publishedDate}}</span></p>
+                        </div>
+                    </div>  
+
+                
+                    <a class="downloadBtn" href={{item.accessInfo.pdf.acsTokenLink}}> Baixar demo</a>
+                    <a class="readerBtn" href={{item.accessInfo.webReaderLink}}> Leitura digital</a>
+                    
+                </div>
+            {% endfor %}
+        </div>
+    </div> 
+
+        
+
+
+    <footer>
+            <div class="dev">
+                <p>Desenvolvido por <a target="_blank" href="www.matheusfelizardo.com.br">Matheus Felizardo</a></p>
+                <a target="_blank" href="www.matheusfelizardo.com.br"><img src="assets/personal-page.svg" alt="Matheus Felizardo"></a>
+            </div>
+
+            <div class="social-media">
+                <a target="_blank" href="https://www.linkedin.com/in/matheus-felizardo/"><img src="assets/linkedin.svg" alt="Linkedin"></a>
+                <a target="_blank" href="https://github.com/MatheusFelizardo"><img src="assets/github.svg" alt="Github"></a>
+                <a target="_blank" href="https://www.instagram.com/matheus.felizardo_"><img src="assets/instagram.svg" alt="Instagram"></a>
+            </div>
+        </footer>
+</body>
+
+    <script src="scripts/script.js"></script>
+    <script>
+        onload = function () {
+    alert ("Ao baixar a demo você precisará do aplicativo Adobe Digital Editions ou outro leitor, pois o arquivo é baixado no formato ACSM")
+}
+
+    </script>
+</html>
