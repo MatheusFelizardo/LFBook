@@ -2,12 +2,7 @@
 
 ___
 
-<p align="center">
-  <img src="https://ibb.co/rQSsDjX" width="300" heigth="300">
-</p>
-<p align="center">
-  <img src="https://readme-maker.herokuapp.com/uploads/5cd10c08e82b5e37-logo.svg" width="300" heigth="300">
-</p>
+https://ibb.co/y50d9ZW
 
 
 <p align="center">
@@ -29,7 +24,9 @@ ___
 
 ___
 
-<img src="https://ibb.co/y50d9ZW" width="1200">
+<p align="center">
+  <img src="https://ibb.co/rQSsDjX" width="300" heigth="300">
+</p>
 
 ## :information_source: Sobre
 
