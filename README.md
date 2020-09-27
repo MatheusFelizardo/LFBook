@@ -1,17 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63763269/94377498-a4b2c200-00f8-11eb-89a4-2fa1d1f8f673.png" width="260px" height="160px"/></p>
+</div>
 <h2 align="center">LFBook - Localizador de Livros</h2>
 
-___
-
-https://ibb.co/y50d9ZW
-
-
-<p align="center">
-  <a href="LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
-  </a>
-</p>
-
-___
+![LFBook](https://user-images.githubusercontent.com/63763269/94377468-3e2da400-00f8-11eb-901d-cc255344b4fb.gif)
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
@@ -24,9 +16,6 @@ ___
 
 ___
 
-<p align="center">
-  <img src="https://ibb.co/rQSsDjX" width="300" heigth="300">
-</p>
 
 ## :information_source: Sobre
 
@@ -74,3 +63,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## Licença 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+<p align="center">
+  <a href="LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+  </a>
+</p>
